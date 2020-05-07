@@ -1,0 +1,22 @@
+
+ 
+ body{
+	background-color: rgb(1, 86, 87);
+	color:white;
+	text-align: center;
+	line-height: 3em;
+	font-size: 32px;
+    
+}
+
+button{
+
+	box-shadow: 0 10px 20px rgba(0,0,0.19),6px 6px rgba(0,0,0,0.23);
+}
+
+#home{
+	font-size: 20px;
+}
+div{
+	text-align: right;
+}

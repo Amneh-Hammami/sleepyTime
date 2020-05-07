@@ -1,0 +1,38 @@
+body{
+	background-color: rgb(1, 86, 87);
+	color:white;
+	text-align: center;
+	line-height: 1em;
+	font-size: 32px;
+    
+}
+#calculate{
+    font-size:25px;
+}
+#hour{
+	font-size: 20px;
+}
+#minute{
+	font-size: 20px;
+}
+#Am{
+	font-size: 20px;
+}
+
+#calculate{
+	box-shadow: 0 10px 20px rgba(0,0,0.19),6px 6px rgba(0,0,0,0.23);
+}
+
+
+#moh{
+	text-align: right;
+}
+#about{
+	font-size: 20px;
+}
+#hanan{
+	text-align: center;
+}
+#zzz{
+	font-size: 30px;
+}
